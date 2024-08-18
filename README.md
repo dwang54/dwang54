@@ -4,7 +4,7 @@ I'm Daniel Wang!
 
 <h2> About me  </h2>
 I'm a sophomore computer engineering student at Purdue University. In my free time I enjoy playing sports, cooking/baking, and learning new things. 
-
+\.
 
 Interests in...
 * Computer Architecture
