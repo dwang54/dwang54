@@ -7,6 +7,7 @@ I'm a sophomore computer engineering student at Purdue University. In my free ti
 
 
 <h2> Interests in... </h2>
+
 * Computer Architecture
 *  SoC and FPGA's
 *  Hardware design/verification. 
