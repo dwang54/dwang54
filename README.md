@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-I'm a computer engineering student at Purdue University 
+I'm Daniel Wang!
 
+<h2> About me </h2>
+I'm a sophomore computer engineering student at Purdue University. Interests in Computer Architecture, SoC and FPGA's, and hardware design/verification. Always curious and excited to learn!
+
+<h2> Learning </h2>
 Currently playing around with HTML, CSS, and JS
-
-Always curious and excited to learn!
 <!--
 **dwang54/dwang54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
