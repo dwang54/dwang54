@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm a computer engineering student at Purdue University. 
+Currently playing around with HTML, CSS, and JS
+Always curious and excited to learn!
 <!--
 **dwang54/dwang54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
