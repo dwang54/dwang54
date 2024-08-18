@@ -2,17 +2,17 @@
 
 I'm Daniel Wang!
 
-<h2> About me 💭 </h2>
+<h2> 💭 About me  </h2>
 I'm a sophomore computer engineering student at Purdue University. In my free time I enjoy playing sports, cooking/baking, and learning new things. 
 
 
-<h2> Interests in... : </h2>
+<h2> 🌱 Interests in...  </h2>
 
 * Computer Architecture
 *  SoC and FPGA's
 *  Hardware design/verification. 
 
-<h2> Learning 🔭 </h2>
+<h2> 🔭 Learning  </h2>
 Currently playing around with HTML, CSS, and JS
 <!--
 **dwang54/dwang54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
