@@ -3,6 +3,35 @@ body {
     color: black;
 }
 
+header {
+    position: fixed; 
+    top: 0;
+    width: 100%;
+    background-color: #333; 
+    color: white; 
+    padding: 10px 0; 
+    z-index: 1000;
+}
+
+header ul {
+    list-style: none; 
+    margin: 0; 
+    padding: 0; 
+    display: flex; 
+    justify-content: center; 
+}
+
+header ul li {
+    margin: 0 15px; 
+    padding: 10px 20px; 
+    cursor: pointer; 
+}
+
+header ul li:hover {
+    background-color: #575757; 
+    border-radius: 5px; 
+}
+
 
 .profile_picture {
     width: 150px; 
