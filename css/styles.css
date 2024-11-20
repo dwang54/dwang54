@@ -3,3 +3,12 @@ body {
     color: black;
 }
 
+
+.profile_picture {
+    width: 150px; 
+    height: 150px; 
+    border-radius: 50%; 
+    object-fit: cover; 
+    border: 2px solid #000; 
+}
+
