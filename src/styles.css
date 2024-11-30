@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:500');
 
-body {
+* {
     background-color: #24252A;
     margin: 0;
     padding: 0;
