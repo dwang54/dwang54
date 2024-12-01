@@ -47,6 +47,8 @@ header {
     border-radius: 50%; 
     object-fit: cover; 
     border: 2px solid #807e7e; 
+    padding-left: 50px;
+    padding-top: 50px;
 }
 
 .center {
