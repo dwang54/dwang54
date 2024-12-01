@@ -40,7 +40,6 @@ header {
  }
 
 
-
 .profile_picture {
     width: 150px; 
     height: 150px; 
@@ -58,5 +57,11 @@ header {
 
 section {
     font-family: 'Inter', sans-serif;
+}
+
+.profile_picture_container {
+    position: absolute; 
+    top: 10%; 
+    left: 5%; 
 }
 
