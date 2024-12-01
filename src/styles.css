@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:500');
 
 * {
-    background-color: #e3e5ed;
+    background-color: #ccced3;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -39,23 +39,7 @@ header {
     color: #0088a9;
  }
 
- button {
-    margin-left: 20px;
-    padding: 9px 25px;
-    background-color: rgba(0, 136, 169, 1);
-    border: none;
-    border-radius: 50px;
-    cursor: pointer;
-    transition: all 0.3s ease 0s;
- }
 
- button:hover {
-    background-color: rgba(0, 136, 169, 0.8);
- }
-
- .hidden_text {
-    display: none;
-}
 
 .profile_picture {
     width: 150px; 
@@ -73,6 +57,6 @@ header {
 }
 
 section {
-    font-family: "Montserrat", sans-serif;
+    font-family: 'Times New Roman', Times, serif
 }
 
