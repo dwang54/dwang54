@@ -59,9 +59,9 @@ section {
     font-family: 'Inter', sans-serif;
 }
 
-.profile_picture_container {
+.profile_pic_container {
     position: absolute; 
-    top: 40%; 
+    top: 30%; 
     left: 40%; 
 }
 
