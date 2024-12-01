@@ -7,7 +7,7 @@
     box-sizing: border-box;
 }
 
-li, a, button {
+li, a {
     font-family: "Montserrat", sans-serif;
     font-weight: 500;
     font-size: 16px;
