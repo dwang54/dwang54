@@ -20,7 +20,6 @@ header {
     justify-content: flex-end;
     align-items: center;
     padding: 15px 10%;
-
 }
 
  .nav_links {
@@ -58,14 +57,12 @@ header {
     display: none;
 }
 
-
 .profile_picture {
     width: 150px; 
     height: 150px; 
     border-radius: 50%; 
     object-fit: cover; 
     border: 2px solid #000; 
-    place-content: center;
 }
 
 .center {
