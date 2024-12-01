@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat:500');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
 * {
     background-color: #ccced3;
@@ -8,7 +8,7 @@
 }
 
 li, a {
-    font-family: "Montserrat", sans-serif;
+    font-family: 'Inter', sans-serif;
     font-weight: 500;
     font-size: 16px;
     color: #000000;
@@ -36,7 +36,7 @@ header {
  }
 
  .nav_links li a:hover {
-    color: #0088a9;
+    color: #6e6b6c;
  }
 
 
@@ -57,6 +57,6 @@ header {
 }
 
 section {
-    font-family: 'Times New Roman', Times, serif
+    font-family: 'Inter', sans-serif;
 }
 
