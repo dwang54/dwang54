@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
-
 * {
     background-color: #eff0f4;
     margin: 0;
@@ -53,15 +52,15 @@ header {
 
 .container {
     display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    justify-content: center;
+    flex-direction: row; 
+    align-items: center; 
+    justify-content: flex-start; 
     min-height: 100vh;
-    padding: 0 10%;
+    padding: 0 10%; 
 }
 
 .profile_pic_container {
-    margin-right: 40px;
+    margin-right: 40px; 
 }
 
 .profile_picture {
@@ -70,7 +69,11 @@ header {
     border-radius: 50%;
     object-fit: cover;
     border: 2px solid #807e7e;
-    margin-bottom: 20px;
+}
+
+section {
+    text-align: left; 
+    max-width: 800px; 
 }
 
 h1 {
@@ -95,11 +98,12 @@ p {
     max-width: 600px; 
 }
 
-section {
-    text-align: left;
-    margin: 20px auto;
-    max-width: 800px;
+p a {
+    color: #007acc; 
+    text-decoration: none; 
+    font-weight: 500;
 }
 
-
-
+p a:hover {
+    text-decoration: underline;
+}
