@@ -58,6 +58,7 @@ header {
     min-height: 80vh;
     padding: 0 5%; 
     margin-top: -70px;
+    margin-bottom: 30px;
 }
 
 .profile_pic_container {
@@ -115,9 +116,12 @@ p a:hover {
 .icons {
     display: flex; 
     justify-content: center; 
-    gap: 20px; 
-    width: 100%;
+    gap: 20px;
+    width: 100%; 
+    margin: 0 auto;
     margin-top: 20px; 
+    text-align: center; 
 }
+
     
 
