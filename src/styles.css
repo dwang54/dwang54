@@ -61,7 +61,11 @@ header {
 }
 
 .profile_pic_container {
-    margin-right: 40px; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 40px;
+
 }
 
 .profile_picture {
@@ -110,7 +114,8 @@ p a:hover {
 
 .icons {
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     gap: 30px;
     margin-top: 30px;
+
 }
