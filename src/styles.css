@@ -56,7 +56,8 @@ header {
     align-items: center; 
     justify-content: flex-start; 
     min-height: 80vh;
-    padding: 50px 10%; 
+    padding: 0 10%; 
+    margin-top: -70px;
 }
 
 .profile_pic_container {
