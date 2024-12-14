@@ -109,5 +109,8 @@ p a:hover {
 }
 
 .icons {
-    margin-left: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 30px;
 }
