@@ -8,7 +8,7 @@
     </head>
 
     <body>
-        <div id="header"></div>
+        <div id="navbar"></div>
 
 
         <main>
@@ -44,10 +44,10 @@
         </main>
 
         <script>
-            fetch("src/header.html")
+            fetch("src/navbar.html")
                 .then(response => response.text())
                 .then(data => {
-                    document.getElementById("header").innerHTML = data;
+                    document.getElementById("navbar").innerHTML = data;
             });
         </script>
 
