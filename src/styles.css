@@ -16,9 +16,24 @@ li, a {
 }
 
 .home {
-    margin-right: auto;
-    cursor: pointer;
+    display: flex; 
+    align-items: center; 
+    gap: 10px; 
+    text-decoration: none; 
+    color: #000000; 
+    font-size: 18px; 
+    font-weight: 500;
 }
+
+.home a:hover {
+    color: #6e6b6c; 
+}
+
+.logo-text {
+    font-size: 20px; 
+    font-weight: 700; 
+}
+
 
 body {
     margin: 0;
