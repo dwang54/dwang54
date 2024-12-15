@@ -173,6 +173,7 @@ p {
     color: #555555;
     line-height: 1.6;
     margin-bottom: 15px;
+    background-color: #ffffff; 
 }
 
 .project-card a {
@@ -184,5 +185,4 @@ p {
     border-radius: 5px;
     transition: all 0.3s ease;
     background-color: #ffffff;
-
 }
