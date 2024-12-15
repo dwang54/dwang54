@@ -126,6 +126,11 @@ p {
 
 /*css for projects page*/
 
+.projects-section {
+    padding: 50px 10%; 
+    background-color: #eff0f4; 
+}
+
 .project-card {
     display: flex; 
     flex-direction: row; 
@@ -138,6 +143,12 @@ p {
     border-radius: 10px;
     box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); 
     background-color: #ffffff; 
+}
+
+.projects-grid {
+    display: flex;
+    flex-direction: column; 
+    gap: 20px; 
 }
 
 .project-card img {
