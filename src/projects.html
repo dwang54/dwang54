@@ -1,24 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Projects</title>
+    <title>Daniel's Portfolio</title>
     <meta charset="utf-8">
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-
 </head>
 
 
 
 <body>
-   
-
     <header>
         <div id="navbar"></div>
     </header>
+
     <main>
-        <p>Coming soon</p>
+        <div class="container">
+            <div class="ll_container">
+                <img src="src/img/ll_block_diagram.png" alt="profile picture" class="ll_diagram">  
+            </div>
+        </div>
+        
+        <p> Developed and integrated SystemVerilog program onto the ICE40HX-8K FPGA that accepts real-time engine thrust 
+            adjustments to achieve a safe landing in simulation settings. Functionality includes dynamic LED indicators of 
+            lunar lander's condition and ability to toggle between different displays of aerospace relevant values. </p>
     </main>
+
+
+
+
 
 
     <script>
@@ -31,7 +41,7 @@
             const currentPage = window.location.pathname;
             const projectsLink = document.querySelector('a[href="src/projects.html"]');
                 if (currentPage.includes('projects.html')) {
-                    projectsLink.href = "javascript:void(0)"; // Disable navigation
+                    projectsLink.href = "javascript:void(0)"; 
                 }
             });
     </script>
