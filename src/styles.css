@@ -15,7 +15,6 @@ li, a {
     text-decoration: none;
 }
 
-
 body {
     margin: 0;
     padding: 0;
@@ -59,7 +58,6 @@ header {
     display: inline-block;
     padding: 0px 20px;
 }
-
 
 .container {
     display: flex;
@@ -109,7 +107,6 @@ h2 {
     margin-bottom: 20px; 
 }
 
-
 p {
     font-size: 16px; 
     font-weight: 300; 
@@ -117,7 +114,6 @@ p {
     color: #333333;  
     margin-bottom: 20px;
 }
-
 
 .icons {
     display: flex; 
