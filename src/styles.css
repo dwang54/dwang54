@@ -38,17 +38,6 @@ header {
     padding: 0px 20px;
 }
 
-.nav_links li a {
-    text-decoration: none;
-    font-size: 18px;
-    font-weight: 500;
-    color: #000000;
-    transition: all 0.3s ease;
-}
-
-.nav_links li a:hover {
-    color: #6e6b6c;
-}
 
 .container {
     display: flex;
