@@ -1,9 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
-
-
 /* universal css */
-
 * {
     background-color: #eff0f4;
     margin: 0;
@@ -125,7 +122,6 @@ p {
     margin-top: 20px; 
     text-align: center; 
 }
-
 
 
 /*css for projects page*/
