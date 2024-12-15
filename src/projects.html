@@ -26,7 +26,14 @@
             .then(response => response.text())
             .then(data => {
                 document.getElementById("navbar").innerHTML = data;
-        });
+        
+
+            const currentPage = window.location.pathname;
+            const projectsLink = document.querySelector('a[href="src/projects.html"]');
+                if (currentPage.includes('projects.html')) {
+                    projectsLink.href = "javascript:void(0)"; // Disable navigation
+                }
+            });
     </script>
 
 </body>
