@@ -155,9 +155,9 @@ p {
 }
 
 .project-card img {
-    width: 100%;          
-    max-width: 300px;     
-    height: auto;         
+    width: auto;          
+    max-height: 400px;   
+    height: 100%;         
     object-fit: contain;  
     border-radius: 10px;  
 }
