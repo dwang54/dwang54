@@ -22,7 +22,7 @@ body {
     background-color: #eff0f4;
 }
 
-header {
+.navbar {
     display: flex;
     justify-content: space-between;
     align-items: center;
