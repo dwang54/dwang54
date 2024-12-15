@@ -10,13 +10,25 @@
 
 
 <body>
+   
+
     <header>
-        <a href="index.html">Home</a> <!-- Link back to the homepage -->
+        <div id="navbar"></div>
         <h1>My Projects</h1>
     </header>
     <main>
         <p>Here are my projects:</p>
         <!-- Add your project content here -->
     </main>
+
+
+    <script>
+        fetch("header.html")
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById("navbar").innerHTML = data;
+        });
+    </script>
+
 </body>
 </html>
