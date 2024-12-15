@@ -118,6 +118,7 @@ p {
 
 
 .icons {
+    border-top: #d3d3d3;
     display: flex; 
     justify-content: center; 
     gap: 20px;
