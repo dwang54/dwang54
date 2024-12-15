@@ -15,6 +15,11 @@ li, a {
     text-decoration: none;
 }
 
+.home {
+    margin-right: auto;
+    cursor: pointer;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -24,13 +29,14 @@ body {
 
 header {
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-between;
     align-items: center;
     padding: 15px 10%;
 }
 
 .nav_links {
     list-style: none;
+    display: flex;
 }
 
 .nav_links li {
