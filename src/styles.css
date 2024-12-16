@@ -159,6 +159,14 @@ p {
     border-radius: 10px;  
 }
 
+.audio_equalizer_schem {
+    height: auto;          
+    max-width: 400px;   
+    width: 100%;         
+    object-fit: contain;  
+    border-radius: 10px;  
+}
+
 .project-card .project-content {
     flex: 1; 
 }
